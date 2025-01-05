@@ -39,11 +39,3 @@ button:hover {
     width: 40%;
     margin: 2rem auto;
 }
-
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: repeat(8, 5vw);
-    grid-gap: 1.5rem;
-    padding-top: 20px;
-}
