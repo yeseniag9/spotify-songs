@@ -20,17 +20,3 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-button {
-    background-color: gray !important;
-    border: 4px solid white;
-    padding: 10px;
-    border-radius: 3px;
-}
-
-button:hover {
-    background-color: darkslategray !important;
-    border: 4px solid gray;
-    padding: 10px;
-    border-radius: 3px;
-}
