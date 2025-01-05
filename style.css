@@ -36,7 +36,6 @@ button:hover {
     border-radius: 3px;
 }
 
-/* Styles for poster */
 .container {
     width: 40%;
     margin: 2rem auto;
@@ -68,7 +67,6 @@ button:hover {
     background-color: darkslategray;
 }
 
-/* Each item is going to say how big they are */
 .gallery__item--1{
     grid-column-start: 1;
     grid-column-end: 3;
